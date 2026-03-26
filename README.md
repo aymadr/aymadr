@@ -13,11 +13,6 @@ Je suis un passionné d'informatique en général. Mon profil est principalement
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
----
-
-### 📊 Mes Statistiques GitHub
-![Stats d'Aymerick](https://github-readme-stats.vercel.app/api?username=aymadr&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=aymadr&layout=compact&theme=tokyonight)
 
 ---
 
