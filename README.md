@@ -1,16 +1,30 @@
-## Hi there 👋
+# Salut, moi c'est Aymerick ! 👋
 
-<!--
-**aymadr/aymadr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Passionné de Cyber & Réseau | Développeur Multi-langages
 
-Here are some ideas to get you started:
+Je suis un passionné d'informatique en général. Mon profil est principalement orienté vers la **Cybersécurité** et les **Réseaux**, mais le développement reste une part essentielle de mes compétences pour concevoir des outils et comprendre les infrastructures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Ce que je sais coder
+| Langages & Runtime | Web Frontend | Systèmes & Outils |
+| :--- | :--- | :--- |
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+
+---
+
+### 📊 Mes Statistiques GitHub
+![Stats d'Aymerick](https://github-readme-stats.vercel.app/api?username=aymadr&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=aymadr&layout=compact&theme=tokyonight)
+
+---
+
+### 🎯 Objectifs
+- 🛡️ Approfondir mes connaissances en PenTesting et Sécurité Réseau.
+- 🛠️ Développer des outils d'automatisation en Node.js et C.
+- 🚀 Contribuer à des projets Open Source.
+
+---
+*N'hésite pas à jeter un œil à mes dépôts ou à me contacter pour discuter Cyber !*
