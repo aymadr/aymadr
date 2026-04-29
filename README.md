@@ -22,4 +22,10 @@ Je suis un passionné d'informatique en général. Mon profil est principalement
 - 🚀 Contribuer à des projets Open Source.
 
 ---
+
+![GitHub Stats](https://ghstats.dev/api/card?username=aymadr&theme=midnight&show_icons=true&show_ring=true&hide_border=true&custom_title=aymadr%27s%20GitHub%20Stats)
+
+
+---
+
 *N'hésite pas à jeter un œil à mes dépôts ou à me contacter pour discuter Cyber !*
