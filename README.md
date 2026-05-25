@@ -28,4 +28,3 @@ Je suis un passionné d'informatique en général. Mon profil est principalement
 
 ---
 
-*N'hésite pas à jeter un œil à mes dépôts ou à me contacter pour discuter Cyber !*
