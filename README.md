@@ -1,12 +1,12 @@
-# Salut, moi c'est Aymerick ! 👋
+# Salut, moi c'est Aymerick !
 
-### 🛡️ Passionné de Cyber & Réseau | Développeur Multi-langages
+### Passionné de Cyber & Réseau | Développeur Multi-langages
 
 Je suis un passionné d'informatique en général. Mon profil est principalement orienté vers la **Cybersécurité** et les **Réseaux**, mais le développement reste une part essentielle de mes compétences pour concevoir des outils et comprendre les infrastructures.
 
 ---
 
-### 💻 Ce que je sais coder
+### Ce que je sais coder
 | Langages & Runtime | Web Frontend | Systèmes & Outils |
 | :--- | :--- | :--- |
 | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
@@ -16,10 +16,10 @@ Je suis un passionné d'informatique en général. Mon profil est principalement
 
 ---
 
-### 🎯 Objectifs
-- 🛡️ Approfondir mes connaissances en PenTesting et Sécurité Réseau.
-- 🛠️ Développer des outils d'automatisation en Node.js et C.
-- 🚀 Contribuer à des projets Open Source.
+### Objectifs
+-  Approfondir mes connaissances en PenTesting et Sécurité Réseau.
+-  Développer des outils d'automatisation en Node.js et C.
+-  Contribuer à des projets Open Source.
 
 ---
 
