@@ -1,17 +1,17 @@
-markdown_content = """<h1 align="center">Salut, moi c'est Aymerick ! ✌️</h1>
+<h1 align="center">Salut, moi c'est Aymerick ! ✌️</h1>
 <h3 align="center">Apprenti Ingénieur en Cybersécurité & Développeur</h3>
 
 <br>
 
 <p align="center">
-  <strong>🛠️ Technologies & Outils</strong><br><br>
+  <strong> Technologies & Outils</strong><br><br>
   <img src="https://skillicons.dev/icons?i=rust,python,docker,js,nodejs,c,git,ai,kali,linux,mysql,npm,threejs,vercel,powershell,vscode,ubuntu,debian,redhat&perline=10" alt="My Skills" />
 </p>
 
 <br>
 
 <p align="center">
-  <strong>📊 Statistiques GitHub</strong><br><br>
+  <strong> Statistiques GitHub</strong><br><br>
   <a href="https://github.com/aymadr">
     <img src="https://github-readme-stats.vercel.app/api?username=aymadr&theme=midnight&show_icons=true&hide_border=true&bg_color=00000000" height="150" alt="GitHub Stats" />
   </a>
@@ -27,9 +27,3 @@ markdown_content = """<h1 align="center">Salut, moi c'est Aymerick ! ✌️</h1>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymadr&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="Top Languages" />
   </a>
 </p>
-"""
-
-with open("README-v3.md", "w", encoding="utf-8") as f:
-    f.write(markdown_content)
-
-print("README-v3.md created successfully.")
