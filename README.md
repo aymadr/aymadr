@@ -5,7 +5,7 @@
 
 <div align="center">
   <strong>🛠️ Technologies & Outils</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=rust,python,docker,js,nodejs,c,git,ai,kali,linux,mysql,npm,threejs,vercel,powershell,vscode,ubuntu,debian,redhat&perline=10" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=rust,python,docker,js,nodejs,c,git,ai,kali,linux,mysql,flask,npm,threejs,vercel,powershell,vscode,ubuntu,debian,redhat&perline=10" alt="My Skills" />
 </div>
 
 <br>
