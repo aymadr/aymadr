@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,docker,js,nodejs,bootstrap,css" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=rust,python,docker,js,nodejs,c,git,ai,kali,linux,mysql,npm,threejs,vercel,powershell,vscode,ubuntu,debian,redhat" alt="My Skills" />
 </div>
 
 <br>
