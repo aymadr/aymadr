@@ -18,6 +18,5 @@
 
 <br>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aymadr&layout=compact&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/aymadr)
 
 </div>
