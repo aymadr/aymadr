@@ -1,5 +1,5 @@
-<h1 align="center">Salut, moi c'est Aymerick ! ✌️</h1>
-<h3 align="center">Apprenti Ingénieur en Cybersécurité & Développeur</h3>
+<h1 align="center">✌️</h1>
+<h3 align="center">Cybersecurity Engineer | Software & AI Lover</h3>
 <br>
 <div align="center">
   <strong> Technologies & Outils</strong><br><br>
